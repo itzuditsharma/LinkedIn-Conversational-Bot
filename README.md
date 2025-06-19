@@ -11,6 +11,7 @@ This project creates a personalized AI chatbot that acts as a virtual assistant 
 
 - Answer questions based on your profile and resume (from a PDF)
 - Record unknown questions via Pushover notifications
+- Sends those message directly on your mobile app
 - Collect user contact details for future communication
 - Engage in interactive conversations via a Gradio interface
 
