@@ -50,6 +50,7 @@ Used to collect the user's email, name, and notes if they're interested in being
 Used to log any question the bot could not answer to help improve the knowledge base.
 
 ## Screenshots
+---
 ![image](https://github.com/user-attachments/assets/6c7ef9d1-37a1-4911-8df8-000a84159c60)
 ![image](https://github.com/user-attachments/assets/da47d9e6-9faf-420c-96ec-a4007c3f13fb)
 ![image](https://github.com/user-attachments/assets/17f01a6f-efaf-49af-95c5-f723a7c45dfa)
