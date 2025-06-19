@@ -1,3 +1,5 @@
+Deployed on Hugging face spaces: https://huggingface.co/spaces/itzuditsharma/linkedin_conversation
+
 ---
 title: linkedin_conversation
 app_file: app.py
